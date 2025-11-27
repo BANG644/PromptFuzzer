@@ -9,7 +9,7 @@
 
 **🛡️ AI Security Testing Platform with Multi-Provider API Support**
 
-[Live Demo][(https://pinme.eth.limo/#/preview/U2FsdGVkX19YhJ61xuFoRJclyp20yyKM4HXRqoBiltfSbubWnD6A-Hm_WzCSSyerp6vAmvMPZp9nJMNcJGuIzESryoB4HQBfN9nt)](https://rg4hiyry.pinit.eth.limo) | [Documentation](#features) | [Quick Start](#quick-start) | [Report Issue](https://github.com/BANG644/PromptFuzzer/issues)
+[Live Demo](https://rg4hiyry.pinit.eth.limo) | [Documentation](#features) | [Quick Start](#quick-start) | [Report Issue](https://github.com/BANG644/PromptFuzzer/issues)
 
 </div>
 
@@ -31,7 +31,7 @@
 
 ### Option 1: Use Deployed Version (Recommended)
 
-Visit the live deployment: **[[https://pinme.eth.limo/#/preview/U2FsdGVkX19YhJ61xuFoRJclyp20yyKM4HXRqoBiltfSbubWnD6A-Hm_WzCSSyerp6vAmvMPZp9nJMNcJGuIzESryoB4HQBfN9nt](https://pinme.eth.limo/#/preview/U2FsdGVkX19YhJ61xuFoRJclyp20yyKM4HXRqoBiltfSbubWnD6A-Hm_WzCSSyerp6vAmvMPZp9nJMNcJGuIzESryoB4HQBfN9nt)](https://rg4hiyry.pinit.eth.limo)**
+Visit the live deployment: **(https://rg4hiyry.pinit.eth.limo)**
 
 1. Navigate to the **Configuration** tab
 2. Expand the **API Configuration** panel
