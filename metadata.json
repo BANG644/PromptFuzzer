@@ -1,0 +1,5 @@
+{
+  "name": "PromptFuzzer",
+  "description": "An automated LLM security testing platform designed to detect vulnerabilities like prompt injection, PII leakage, and jailbreaks.",
+  "requestFramePermissions": []
+}
